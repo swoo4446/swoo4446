@@ -150,15 +150,19 @@ B2B 환경에서 예약·결제·정산 및 외부 서비스 연동을 기획해
 
 **Product**  
 `Service Planning` `Requirement Definition` `User Flow` `B2B SaaS` `API Integration`
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)
 
 **Data**  
 `SQL` `Looker` `Data Analysis`
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)
 
 **AI & Development**  
 `Python` `LLM` `AI Agent` `Git` `GitHub`
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)
 
 **Design & Collaboration**  
 `Figma` `Axure`
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)
 
 ---
 
